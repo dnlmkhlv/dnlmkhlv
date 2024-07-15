@@ -12,7 +12,7 @@ I’m an aspiring <b>full-stack developer</b> with a passion for building full-f
 ## My Educational Journey
 <b>🎓 Bachelor of Science in Computer and Information Technologies at <a href="https://www.rit.edu">Rochester Institute of Technology</a>:</b> 2020 - 2024.
 
-<b>🎓 Master’s in Data Science <a href="https://www.hse.ru/en/">HSE University</a>:</b> Starting in September 2024, I’ll be diving deeper into the fascinating field of data science and AI through my master’s program.
+<b>🎓 Master’s in Data Science at <a href="https://www.hse.ru/en/">HSE University</a>:</b> Starting in September 2024, I’ll be diving deeper into the fascinating field of data science and AI through my master’s program.
 
 Feel free to reach out — I’m always up for interesting discussions and collaborative projects! 🚀🌟
 
