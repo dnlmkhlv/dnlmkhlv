@@ -10,7 +10,7 @@ Daniil Mikhailov
 I’m an aspiring <b>full-stack developer</b> with a passion for building full-fledged web apps and other things. Currently honing my skills in both front-end and back-end development. Beyond that, I’m keen on exploring more about the exciting realms of blockchain and artificial intelligence as I already have some experience working in these two fields. Eager to learn, excited to create, and always open to collaborate.
 
 ## My Educational Journey
-<b>🎓 Bachelor of Science in Computer and Information Technologies at <a href="https://www.rit.edu">Rochester Institute of Technology</a>:</b> I’m currently pursuing my bachelor’s degree, and I’m set to graduate in May 2024.
+<b>🎓 Bachelor of Science in Computer and Information Technologies at <a href="https://www.rit.edu">Rochester Institute of Technology</a>:</b> 2020 - 2024.
 
 <b>🎓 Master’s in Data Science <a href="https://www.hse.ru/en/">HSE University</a>:</b> Starting in September 2024, I’ll be diving deeper into the fascinating field of data science and AI through my master’s program.
 
