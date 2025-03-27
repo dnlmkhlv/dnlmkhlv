@@ -14,6 +14,8 @@ Welcome to my GitHub! I'm a passionate **Software Developer, AI & ML Specialist,
 - 💼 **LinkedIn:** [linkedin.com/in/daniilmikhailov](https://www.linkedin.com/in/daniilmikhailov)
 - 🐦 **Twitter/X:** [@D1niilMikhailov](https://x.com/D1niilMikhailov)
 - 📧 **Email:** d1niilmikhailov@gmail.com
+- 📽️ **Subscribe to my YouTube:** [Daniil Mikhailov](https://www.youtube.com/@Daniil_Mikhailov)
+
 
 ### 🛠️ Tech Stack & Tools
 #### 🖥️ Frontend Development
