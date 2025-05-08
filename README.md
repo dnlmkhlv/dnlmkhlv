@@ -7,14 +7,11 @@ Welcome to my GitHub! I'm a passionate **Software Developer, AI & ML Specialist,
 - 🎓 Bachelor's degree in **Computing and Information Technologies**
 - ⭐ Сo-Founder of [ServisDom](https://servisdom.ae) (The ultimate app for all home services)
 - 💪 Building gymlabs.ai (The ultimate app for gym)
-- 📝 Sharing my insights on **startups, tech, and fitness** on my [Blog](https://www.daniilmikhailov.com/blog)
 
 ### 📫 Connect with Me
-- 🌍 **Website:** [daniilmikhailov.com](https://www.daniilmikhailov.com)
 - 💼 **LinkedIn:** [linkedin.com/in/daniilmikhailov](https://www.linkedin.com/in/daniilmikhailov)
 - 🐦 **Twitter/X:** [@D1niilMikhailov](https://x.com/D1niilMikhailov)
 - 📧 **Email:** d1niilmikhailov@gmail.com
-- 📽️ **Subscribe to my YouTube:** [Daniil Mikhailov](https://www.youtube.com/@Daniil_Mikhailov)
 
 
 ### 🛠️ Tech Stack & Tools
