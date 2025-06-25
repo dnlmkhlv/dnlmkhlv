@@ -1,14 +1,17 @@
 <h1 align="center">Daniil Mikhailov</h1>
 <p align="center">Tech guy • Founder of gymlabs.io • Based in Dubai</p>
 
+<br />
+
 ## 🧠 About Me
 
-- BSc in Computing and Information Technologies  
-- MSc in Data Science  
-- Currently diving deeper into AI and ML  
-- Building [gymlabs.io](https://gymlabs.io) – the ultimate gym platform  
+- B.Sc. in Computing and Information Technologies
+- M.Sc. in Data Science
+- Currently diving deeper into AI and ML
+- Building [gymlabs.io](https://gymlabs.io) – the ultimate gym platform
 - Based in Dubai
 
+<br />
 
 ## 🛠 Tech Stack
 
@@ -51,6 +54,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="40" alt="Airflow" />
 </p>
 
+<br />
 
 ## 🔗 Visit My Website  
 [daniilmikhailov.com](https://daniilmikhailov.com)
+
+<br />
+
+## 📊 GitHub Stats
+![dnlmkhlv's Stats](https://github-readme-stats.vercel.app/api?username=dnlmkhlv&theme=react&show_icons=true&hide_border=false&count_private=false)
