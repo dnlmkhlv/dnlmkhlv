@@ -1,8 +1,6 @@
 <h1 align="center">Daniil Mikhailov</h1>
 <p align="center">Tech guy • Founder of gymlabs.io • Based in Dubai</p>
 
-<br />
-
 ## 🧠 About Me
 
 - BSc in Computing and Information Technologies  
@@ -11,7 +9,6 @@
 - Building [gymlabs.io](https://gymlabs.io) – the ultimate gym platform  
 - Based in Dubai
 
-<br />
 
 ## 🛠 Tech Stack
 
@@ -54,7 +51,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="40" alt="Airflow" />
 </p>
 
-<br />
 
 ## 🔗 Visit My Website  
 [daniilmikhailov.com](https://daniilmikhailov.com)
