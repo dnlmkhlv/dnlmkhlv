@@ -1,5 +1,5 @@
 <h1 align="center">Daniil Mikhailov</h1>
-<p align="center">Tech guy • Founder of gymlabs.io • Based in Dubai</p>
+<p align="center">Tech guy • Based in Dubai</p>
 
 <br />
 
@@ -8,7 +8,6 @@
 - B.Sc. in Computing and Information Technologies
 - M.Sc. in Data Science
 - Currently diving deeper into AI and ML
-- Building [gymlabs.io](https://gymlabs.io) – the ultimate gym platform
 - Based in Dubai
 
 <br />
