@@ -10,7 +10,7 @@ I specialize in developing web and mobile applications, building and experimenti
 
 📬 Reach out via [email](mailto:mikhailoff.daniil@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/daniilmikhailov/).
 
-🌐 Learn more about my work and projects on [my website](www.daniilmikhailov.com)
+🌐 Learn more about my work and projects on [my website](www.daniilmikhailov.com).
 
 🚀 Software Engineer | 🤖 AI/ML Developer | 📱 Full-Stack Builder | 💡 Product Creator
 
