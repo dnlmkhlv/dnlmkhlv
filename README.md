@@ -4,9 +4,9 @@ I’m a software engineer and tech enthusiast passionate about building meaningf
 
 I specialize in developing web and mobile applications, building and experimenting with machine learning models, and creating tools that make complex tasks easier and smarter.
 
+My education:
 - B.Sc., Computing and Information Technologies
 - M.Sc, Data Science
-- Based in Dubai
 
 Reach out via [email](mailto:mikhailoff.daniil@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/daniilmikhailov/).
 
