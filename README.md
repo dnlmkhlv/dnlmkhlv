@@ -4,15 +4,15 @@ I’m a software engineer and tech enthusiast passionate about building meaningf
 
 I specialize in developing web and mobile applications, building and experimenting with machine learning models, and creating tools that make complex tasks easier and smarter.
 
-🎓 B.Sc., Computing and Information Technologies
-🎓 M.Sc, Data Science
-📍 Based in Dubai
+- B.Sc., Computing and Information Technologies
+- M.Sc, Data Science
+- Based in Dubai
 
-📬 Reach out via [email](mailto:mikhailoff.daniil@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/daniilmikhailov/).
+Reach out via [email](mailto:mikhailoff.daniil@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/daniilmikhailov/).
 
-🌐 Learn more about my work and projects on [my website](https://www.daniilmikhailov.com).
+Learn more about my work and projects on [my website](https://www.daniilmikhailov.com).
 
-🚀 Software Engineer | 🤖 AI/ML Developer | 📱 Full-Stack Builder | 💡 Product Creator
+Software Engineer | AI/ML Developer | Full-Stack Builder | Product Creator
 
 ## 📊 My Stats
 <div>
