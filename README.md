@@ -8,7 +8,7 @@ Reach out via [email](mailto:mikhailoff.daniil@gmail.com) or connect with me on 
 
 Learn more about my work and projects on [my website](https://www.daniilmikhailov.com).
 
-Software Engineer | AI/ML | Full-Stack Builder
+Software Engineer | AI/ML | Full-Stack Builder | Gym Bro 💪
 
 ## 📊 My Stats
 <div>
