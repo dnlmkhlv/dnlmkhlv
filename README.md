@@ -9,8 +9,8 @@ I specialize in developing web and mobile applications, building and experimenti
 - **Frontend**: HTML · CSS · React.js · Next.js · Tailwind CSS
 - **Backend**: Node.js · REST APIs · Supabase · Firebase · PostgreSQL · MySQL
 - **Mobile**: React Native · Expo · iOS · Android
-- **DevOps & Tools**: Docker · Git · Vercel
-- **AI & Data**: Machine Learning · Data Science
+- **DevOps & Tools**: Docker · Git · Vercel · Stripe · Resend
+- **AI & Data**: Machine Learning · Deep Learning · Data Science
 
 Reach out via [email](mailto:mikhailoff.daniil@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/daniilmikhailov/).
 
@@ -23,5 +23,6 @@ Software Engineer | AI/ML | Full-Stack Builder
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnlmkhlv&theme=dark" width="400" />
   <a href="https://leetcode.com/dnlmkhlv/"><img src="https://leetcard.jacoblin.cool/dnlmkhlv?theme=dark" width="400" /></a>
 </div>
+
 
 
